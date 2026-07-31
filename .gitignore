@@ -1,0 +1,11 @@
+# Environment variables (contains your API key - NEVER push this)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
